@@ -7,7 +7,7 @@ b = float ( input ( " ingrese la segunda nota: " ) )
 c = float ( input ( " ingrese la tercera nota: " ) )
 promedio = ( a + b + c ) / 3
 print ( " el promedio de tus notas es: ", promedio )
-if promedio >= 50 :
+if promedio >= 51 :
     print ( " aprobaste " )
 else :
     print ( " reprobaste T-T " )
